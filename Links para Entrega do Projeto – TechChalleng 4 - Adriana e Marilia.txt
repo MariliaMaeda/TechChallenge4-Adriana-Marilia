@@ -1,0 +1,22 @@
+Links para Entrega do Projeto – TechChallenge4
+Adriana Rodrigues e Marília Maeda
+
+Painel Preditivo (Diagnóstico Individual):
+https://techchallenge-adriana-marilia.streamlit.app
+
+Aplicativo em Streamlit que estima o nível de obesidade com base em dados clínicos e comportamentais.
+
+Painel Analítico (Visão Populacional e Estratégica):
+https://techchallenge4-adriana-marilia-painel.streamlit.app
+
+Painel interativo com gráficos e métricas que auxiliam equipes médicas e gestores na análise de perfis de obesidade.
+
+Apresentação em Vídeo (Google Drive):
+https://drive.google.com/file/d/1UjZb5-o6mXJfu_FqN8AVzK_ni27i5OpJ/view?usp=drive_link
+
+Gravação da apresentação do projeto, com narrativa explicativa sobre o preditor e o painel analítico.
+
+Repositório no GitHub:
+https://github.com/MariliaMaeda/TechChallenge4-Adriana-Marilia
+
+Código-fonte completo do projeto, incluindo Streamlit, modelo de IA (RandomForest), dados tratados e README documentado.
